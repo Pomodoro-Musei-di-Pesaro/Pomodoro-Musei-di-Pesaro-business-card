@@ -34,6 +34,19 @@
 
 ---
 
+<details>
+<summary>
+
+## 👉 Read the document
+
+</summary>
+
+![1.png](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/blob/main/ReadmeImgs/1.png)
+
+</details>
+
+---
+
 ## In caso di nessuna Release
 
 [![Download](https://custom-icon-badges.demolab.com/badge/-Scarica%20il%20documento%20dimostrativo-blue?style=for-the-badge&logo=download&logoColor=white "Documenti")](https://nightly.link/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/workflows/LaTeX_Action/main/Biglietto_da_visita.zip)
