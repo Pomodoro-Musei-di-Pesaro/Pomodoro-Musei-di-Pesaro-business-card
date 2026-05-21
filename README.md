@@ -10,6 +10,7 @@
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/43814852b37545d0b4ef8b9cabeb644e)](https://app.codacy.com/gh/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Test Compilazione](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/actions/workflows/LaTeX_Action.yml/badge.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/actions/workflows/LaTeX_Action.yml)
+[![pages-build-deployment](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/actions/workflows/pages/pages-build-deployment)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card)
 
 ---
