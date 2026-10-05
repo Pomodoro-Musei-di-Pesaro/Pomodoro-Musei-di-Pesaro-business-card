@@ -2,6 +2,12 @@
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/pulls",
     "title": "/pulls",
+    "count": 5,
+    "uniques": 5
+  },
+  {
+    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/blob/main/SECURITY.md",
+    "title": "/blob/main/SECURITY.md",
     "count": 3,
     "uniques": 3
   },
@@ -10,12 +16,6 @@
     "title": "/blob/main/SUPPORT.md",
     "count": 2,
     "uniques": 2
-  },
-  {
-    "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/blob/main/SECURITY.md",
-    "title": "/blob/main/SECURITY.md",
-    "count": 1,
-    "uniques": 1
   },
   {
     "path": "/Pomodoro-Musei-di-Pesaro/Pomodoro-Musei-di-Pesaro-business-card/branches",
