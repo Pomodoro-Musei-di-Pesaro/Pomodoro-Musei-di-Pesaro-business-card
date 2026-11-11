@@ -5883,14 +5883,14 @@
       "uniques": 4
     },
     {
-      "timestamp": "2026-10-27T00:00:00Z",
-      "count": 15,
-      "uniques": 9
-    },
-    {
       "timestamp": "2026-10-28T00:00:00Z",
       "count": 18,
       "uniques": 11
+    },
+    {
+      "timestamp": "2026-10-27T00:00:00Z",
+      "count": 15,
+      "uniques": 9
     },
     {
       "timestamp": "2026-10-29T00:00:00Z",
